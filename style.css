@@ -1,0 +1,35 @@
+body{
+    background:black;
+}
+p{
+    color:white;
+     margin-left: 2em;
+}
+
+#app{
+    color: white;
+    margin-left: 2em;
+}
+
+.divNav{
+    border: solid 1px blue;
+    background: blue;
+ width: 35em;
+ heigth: 5em; 
+ padding: 1em;
+ margin-left: 5em;
+    display: grid;
+    grid-template-columns: 50% 50%
+}
+
+
+.divNav button{
+ margin: 1em;
+ background: lightgrey; 
+padding: 0.5em;
+
+}
+
+.divNav b{
+     color: blue;
+}
